@@ -126,9 +126,9 @@
 
         layer_7 {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans      &trans            &trans           &trans             &trans      &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans      &kp K_PREV        &kp C_VOLUME_UP  &kp C_VOLUME_DOWN  &kp K_NEXT  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans      &trans            &trans           &trans             &trans      &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans      &trans            &trans        &trans           &trans      &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans      &kp K_PREV        &kp C_VOL_DN  &kp C_VOLUME_UP  &kp K_NEXT  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans      &trans            &trans        &trans           &trans      &trans
                         &trans  &trans  &trans    &kp K_STOP  &kp K_PLAY_PAUSE  &kp K_MUTE
             >;
         };
